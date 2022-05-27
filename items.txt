@@ -1,4 +1,4 @@
-Copy and paste these into your qb-core/shared/items.lua
+Copy and paste these into your qb-core/shared/items.lua & Enjoy
 
 ['chain_v']  						  = {['name'] = 'chain_v', 				    ['label'] = 'V shape chain',  	        ['weight'] = 1,  		['type'] = 'item',  	['image'] = 'chain_v.png',  			['unique'] = true,  	['useable'] = true,  	['shouldClose'] = true,  	['combinable'] = nil, 	['description'] = 'Add a lil bit of drip'},
 ['chain_v1']  						= {['name'] = 'chain_v1', 				  ['label'] = 'V shape chain',  	        ['weight'] = 1,  		['type'] = 'item',  	['image'] = 'chain_v.png',  			['unique'] = true,  	['useable'] = true,  	['shouldClose'] = true,  	['combinable'] = nil, 	['description'] = 'Add a lil bit of drip'},
